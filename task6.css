@@ -1,0 +1,32 @@
+
+body{
+    background-color: black;
+}
+.r1{
+    transform: rotate(45deg);
+    justify-content: center;
+}
+
+.row1{
+    display: flex;
+    align-items: center;
+    gap: 65px;
+    justify-content: center;
+    margin-top: 200px;
+   
+}
+.row2{
+    display: flex;
+    align-items:center;
+    gap: 65px;
+    justify-content: center;
+    margin-top: -40px;
+}
+.row3{
+    display: flex;
+    align-items: center;
+    gap: 65px;
+    justify-content:center;
+    margin-top: -40px;
+    
+}
